@@ -29,9 +29,9 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `September 2017 - December 2017`
 __Rustic Living__, Denver, CO
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Entered transaction data into QuickBooks daily
+- Prepared deposit slips for cash transactions as needed 
+- Assisted with reconciliation of credit card to ensure that the transactions were correct before the company paid the balance
 
 ### Data Science Lead
 
