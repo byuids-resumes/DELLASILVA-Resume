@@ -2,7 +2,7 @@
 layout: cv
 title: Morgan DellaSilva's Resume
 ---
-# Morgan DellaSIlva
+# Morgan DellaSilva
 Student at BYU-Idaho, Business Finance and Analytics
 
 <div id="webaddress">
