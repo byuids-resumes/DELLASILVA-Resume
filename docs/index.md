@@ -37,26 +37,23 @@ __Rustic Living__, Denver, CO
 - Scheduled deliveries and pickup of furniture by conversing with customers over the phone
 
 
-### Data Science Lead
+### Work Experience
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`May 2019 - December 2020`
+__SMG Property Management Inc.__, Leasing Consultant
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Prepared a utility log with Excel monthly to ensure that invoice amounts for utilities were tracked and reported
+- Performed a market study with Excel monthly to track local competition
+- Updated and/or created Excel sheets to create efficient processes in the workplace
+- Assisted property manager with current resident relations and the creation of maintenance requests
+- Marketed to prospects through email and/or phone calls weekly to ensure that current information about apartments was provided
+- Worked with other employees to track progress of apartment turns
+- Scheduled tours and presented property information to prospects
+- Assisted with PO processes to ensure vendors were paid in a timely manner
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
+`April 2017 - September 2017`
+__Student Collection Specialist__
 
 - Build web scraping tool to find and format school district technology data.
 - Used R and the Rvest package to parse and format web data.
