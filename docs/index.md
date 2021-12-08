@@ -32,6 +32,10 @@ __Rustic Living__, Denver, CO
 - Entered transaction data into QuickBooks daily
 - Prepared deposit slips for cash transactions as needed 
 - Assisted with reconciliation of credit card to ensure that the transactions were correct before the company paid the balance
+- Created an updated binder of Safety Data Sheets to ensure that the company safety information was up to date
+- Marketed to past customers through email and/or phone calls weekly to keep them updated on sales and the location of the store
+- Scheduled deliveries and pickup of furniture by conversing with customers over the phone
+
 
 ### Data Science Lead
 
