@@ -73,6 +73,8 @@ __Full-time Volunteer Representative__, New England, USA
 - Worked with groups of 30+ people to find people to teach discussions to and fulfill goals 
 - Reported on goals to group leaders once a week to be accountable and ensure weekly improvement
 
+
+Change made by Braydon Coffin for GQ4
 <!-- ### Footer
 
 Last updated: Dec 2021 -->
