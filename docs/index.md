@@ -53,33 +53,29 @@ __SMG Property Management Inc.__, Leasing Consultant
 
 
 `April 2017 - September 2017`
-__Student Collection Specialist__
+__Brigham Young University-Idaho__, Student Collection Specialist
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Collected an average of 1-5 payments by phone weekly to resolve student debt and charges
+- Responded to an average of 10 student emails weekly to resolve questions concerning debt and payment
+-  Analyzed and calculated interest on debts placed in the university debt file to ensure that students paid the correct amount on debt owed
+-  Assisted an average of 1-2 students daily to create payment plans to pay off their debt to the university
+-   Adjusted and corrected outdated account information to ensure that collection letters were sent to the correct addresses, and resent collection letters
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
 `2023-2025`
-__Service Missionary__, South Africa
+__Full-time Volunteer Representative__, New England
 
-
+- Attended weekly training meetings to set and follow up on goals 
+- Corresponded with other volunteers to prepare and teach an average of five 30-minute lessons weekly 
+- Performed an average of 2-5 hours of service weekly to assist the community and/or individuals 
+- Scheduled an average of 5+ appointments weekly to manage weekly schedule 
+- Worked with groups of 30+ people to find people to teach discussions to and fulfill goals 
+- Reported on goals to group leaders once a week to be accountable and ensure weekly improvement
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Dec 2021 -->
 
 
