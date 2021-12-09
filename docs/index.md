@@ -7,7 +7,6 @@ Student at BYU-Idaho, Business Finance and Analytics
 
 <div id="webaddress">
 <a href="morgan.k.dellasilva@gmail.com">morgan.k.dellasilva@gmail.com</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/morgan-dellasilva/">LinkedIn</a>
 | <a href="https://github.com/Mdellasilva">GitHub</a>
 </div>
