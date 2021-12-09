@@ -64,7 +64,7 @@ __Brigham Young University-Idaho__, Student Collection Specialist
 ## Volunteer Experience
 
 `October 2013 - April 2015`
-__Full-time Volunteer Representative__, New England
+__Full-time Volunteer Representative__, New England, USA
 
 - Attended weekly training meetings to set and follow up on goals 
 - Corresponded with other volunteers to prepare and teach an average of five 30-minute lessons weekly 
