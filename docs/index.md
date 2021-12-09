@@ -64,7 +64,7 @@ __Brigham Young University-Idaho__, Student Collection Specialist
 
 ## Volunteer Experience
 
-`2023-2025`
+`October 2013 - April 2015`
 __Full-time Volunteer Representative__, New England
 
 - Attended weekly training meetings to set and follow up on goals 
