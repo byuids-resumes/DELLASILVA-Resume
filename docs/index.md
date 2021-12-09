@@ -62,7 +62,7 @@ __Brigham Young University-Idaho__, Student Collection Specialist
 -   Adjusted and corrected outdated account information to ensure that collection letters were sent to the correct addresses, and resent collection letters
 
 
-## Service and Work History
+## Volunteer Experience
 
 `2023-2025`
 __Full-time Volunteer Representative__, New England
